@@ -8,6 +8,7 @@
   },
   "scripts": {
     "save": "git add .; git commit -m 'Updated Release'; npm version patch; npm publish; git push --follow-tags;",
+    "upload": "git add .; git commit -m 'Updated Release'; git push --follow-tags;",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
