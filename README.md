@@ -8,7 +8,7 @@ Based on npm's sardonic but evolved with audio-synchronized mouth animation
 
 ## The Philosophy
 
-[![Caricature preview](images/caricature.gif)](https://raw.githubusercontent.com/catpea/caricature/main/caricature.mp4)
+[![Caricature preview](caricature.avif)](https://raw.githubusercontent.com/catpea/caricature/main/caricature.mp4)
 
 Max Headroom was **groundbreaking**. In 1985, that stuttering, glitching, rotating talking head was like nothing else on television. The genius wasn't just the character—it was the **chaos**:
 
