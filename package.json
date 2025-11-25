@@ -1,6 +1,6 @@
 {
   "name": "caricature",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Caricature is a corner-dwelling reporter synchronized to audio volume",
   "main": "caricature.js",
   "bin": {
