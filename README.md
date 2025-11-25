@@ -6,8 +6,9 @@ Based on npm's sardonic but evolved with audio-synchronized mouth animation
 
 > "M-M-M-caricature reporting for d-d-duty!"
 
-[![Watch the demo](samples/6-closed1.jpg)](caricature.mp4)
-
+<video controls>
+ <source src="caricature.mp4" type="video/mp4">
+</video>
 
 ## The Philosophy
 
