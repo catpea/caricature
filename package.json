@@ -1,0 +1,29 @@
+{
+  "name": "caricature",
+  "version": "1.0.3",
+  "description": "Caricature is a corner-dwelling reporter synchronized to audio volume",
+  "main": "caricature.js",
+  "bin": {
+    "caricature": "./caricature.js"
+  },
+  "scripts": {
+    "save": "git add .; git commit -m 'Updated Release'; npm version patch; npm publish; git push --follow-tags;",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "catpea (https://github.com/catpea)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/caricature.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catpea/caricature/issues"
+  },
+  "homepage": "https://catpea.github.io/caricature",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/catpea"
+  }
+}

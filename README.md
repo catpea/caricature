@@ -6,6 +6,9 @@ Based on npm's sardonic but evolved with audio-synchronized mouth animation
 
 > "M-M-M-caricature reporting for d-d-duty!"
 
+[![Watch the demo](samples/6-closed1.jpg)](caricature.mp4)
+
+
 ## The Philosophy
 
 Max Headroom was **groundbreaking**. In 1985, that stuttering, glitching, rotating talking head was like nothing else on television. The genius wasn't just the character—it was the **chaos**:
