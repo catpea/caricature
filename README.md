@@ -2,15 +2,17 @@
 
 **Audio-driven talking head animator with Max Headroom glitchy aesthetic**
 
+[![Watch the video](https://github.com/catpea/caricature/raw/main/samples/6-closed1.jpg)](https://github.com/catpea/caricature/raw/main/caricature.mp4)
+
 Based on npm's sardonic but evolved with audio-synchronized mouth animation
 
 > "M-M-M-caricature reporting for d-d-duty!"
 
-<video controls>
- <source src="https://github.com/catpea/caricature/raw/main/caricature.mp4" type="video/mp4">
-</video>
-
 ## The Philosophy
+
+<video controls>
+<source src="" type="video/mp4">
+</video>
 
 Max Headroom was **groundbreaking**. In 1985, that stuttering, glitching, rotating talking head was like nothing else on television. The genius wasn't just the character—it was the **chaos**:
 
