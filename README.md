@@ -7,7 +7,7 @@ Based on npm's sardonic but evolved with audio-synchronized mouth animation
 > "M-M-M-caricature reporting for d-d-duty!"
 
 <video controls>
- <source src="caricature.mp4" type="video/mp4">
+ <source src="https://github.com/catpea/caricature/raw/main/caricature.mp4" type="video/mp4">
 </video>
 
 ## The Philosophy
